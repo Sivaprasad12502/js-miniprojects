@@ -3,7 +3,7 @@
 :root{
     --line-border-fill:#3498db;
     --line-border-empty:#e0e0e0;
-}
+}   
   
 *{
     box-sizing: border-box;
@@ -54,7 +54,7 @@ body{
     width: 0%;
     height: 4px;
     z-index: -1; 
-    transition: 0.4s ease;
+    transition: 0.4s ease-in;
 } 
 
 .circle{
