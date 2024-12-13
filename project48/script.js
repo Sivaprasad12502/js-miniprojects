@@ -15,3 +15,4 @@ function getRandomSize() {
 function getRandomNr() {
     return Math.floor(Math.random() * 10) + 300
 }
+
