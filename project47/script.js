@@ -79,3 +79,4 @@ const testimonials = [
 
 }
 setInterval(updateTestimonial, 10000)
+
